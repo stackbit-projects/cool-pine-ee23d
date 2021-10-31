@@ -16,7 +16,7 @@ sections:
         url: /store
         arrow: true
         style: primary
-    background_image: images/apliação.jpg
+    background_image: images/WhatsApp Image 2021-10-31 at 16.33.04-57b5030c.jpeg
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
