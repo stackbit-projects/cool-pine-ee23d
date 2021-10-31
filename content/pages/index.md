@@ -16,7 +16,7 @@ sections:
         url: /store
         arrow: true
         style: primary
-    background_image: images/header.jpg
+    background_image: images/imagem-topo.jpg
   - type: featured_products_section
     section_id: best_sellers_section
     title: Best sellers
