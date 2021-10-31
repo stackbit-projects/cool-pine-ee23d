@@ -10,7 +10,8 @@ sections:
     content: |
       # Inteligência artificial aplicada em trade
 
-      ## &#xA;*O mais avançado gestor de micro transações do mercado*
+
+      *O mais avançado gestor de micro transações do mercado*
     actions:
       - title: See all items
         url: /store
