@@ -7,9 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >
-      # Inteligência artificial aplicada em trade&#xA;*O mais avançado gestor de
-      micro transações do mercado*
+    content: |
+      # Inteligência artificial aplicada em trade
+
+      ## &#xA;*O mais avançado gestor de micro transações do mercado*
     actions:
       - title: See all items
         url: /store
