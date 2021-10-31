@@ -7,10 +7,10 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     background_image_opacity: 65
-    content: >
-      # Não confie em Humanos! Deixei o trabalho pesado &#xA;para nossa
-      inteligência artificial
+    content: |
+      # Não confie em Humanos:
 
+       inteligência artificial aplicada em trade
 
       O mais avançado gestor de micro transações do mercado
     actions:
