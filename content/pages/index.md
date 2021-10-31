@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/WhatsApp Image 2021-10-31 at 16.33.04.jpeg
     background_image_opacity: 65
     content: |
       # Inteligência artificial aplicada em trade
